@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U tvg-shift=1 x-tvg-url="http://tinyurl.com/epg-israel"
 
 
 #EXTINF:-1 tvg-id= tvg-name="hrr_bigbro" tvg-logo="https://media.reshet.tv/image/upload/t_main_image_article,f_auto,q_auto/v1503386577/HaachHagadol_r4i6cz.png" group-title=,האח הגדול
