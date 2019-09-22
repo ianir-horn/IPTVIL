@@ -1,12 +1,40 @@
 #EXTM3U tvg-shift=1 x-tvg-url="http://tinyurl.com/epg-israel"
 
+#EXTINF:-1 tvg-ID= tvg-name="Yes_Sport_1_hd" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0001_130x120_charlton1234_new.png" group-title=,SPORT 1
+http://212.150.250.44/rkz79m/ngx/910/hrr_s1/index.m3u8
+#EXTINF:-1 tvg-ID= tvg-name="Yes_Sport_2_hd" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0004_130x120_charlton2.png" group-title=,SPORT 2
+http://212.150.250.44/rkz79m/ngx/910/hrr_s2/index.m3u8
+#EXTINF:-1 tvg-ID= tvg-name="Yes_Sport_3_hd" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0003_130x120_charlton3.png" group-title=,SPORT 3
+http://212.150.250.44/rkz79m/ngx/910/hrr_s3/index.m3u8
+#EXTINF:-1 tvg-ID= tvg-name="yes_sport_4_hd" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0002_130x120_charlton4.png" group-title=,SPORT 4
+http://212.150.250.44/rkz79m/ngx/910/hrr_s4/index.m3u8
 
-#EXTINF:-1 tvg-id= tvg-name="hrr_bigbro" tvg-logo="https://media.reshet.tv/image/upload/t_main_image_article,f_auto,q_auto/v1503386577/HaachHagadol_r4i6cz.png" group-title=,האח הגדול
-http://212.150.250.44/rkz79m/ngx/56/hrr_bigbro/index.m3u8
+#EXTINF:-1 tvg-ID= tvg-name="YES_ONE_HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0051_one-hd.png" group-title=,ONE1 ערוץ
+http://212.150.250.44/rkz79m/ngx_hls/out/u/elm_prod/one_4k/index_3.m3u8
+#EXTINF:-1 tvg-ID= tvg-name="YES_ONE_HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0051_one-hd.png" group-title=,ONE ערוץ
+http://212.150.250.44/rkz79m/ngx/78/hrr_one/index.m3u8
+
+#EXTINF:-1 tvg-ID= tvg-name="ONE_II" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197one2-logo.png" group-title=,ערוץ ONE 2
+http://212.150.250.44/rkz79m/ngx/910/hrr_one2/index.m3u8
+
+#EXTINF:-1 tvg-ID= tvg-name="YES_Sport_5_HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0013_sport-5.png" group-title=,sport_5 SD
+http://212.150.250.44/rkz79m/ngx/78/hrr_5s/index.m3u8
+#EXTINF:-1 tvg-ID= tvg-name="YES_SPORT5_1080" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0005_130x120_channels_sporthd.png" group-title=,Sport 5 HD
+http://212.150.250.44/rkz79m/ngx/78/hrr_5hd/index.m3u8
+#EXTINF:-1 tvg-ID= tvg-name="YES_SPORT5_1080" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0005_130x120_channels_sporthd.png" group-title=,Sport 5 1080
+http://212.150.250.44/rkz79m/ngx_hls/out/u/elm_prod/5sport_4k/index_2.m3u8
+#EXTINF:-1 tvg-ID= tvg-name="YES_5sport_4k" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0005_130x120_channels_sporthd.png" group-title=,Sport 5 4K
+http://212.150.250.44/rkz79m/ngx_hls/out/u/elm_prod/5sport_4k/index_3.m3u8
 
 
-#EXTINF:-1 tvg-id= tvg-name="_YES_Plus9" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0010_9-130x120.png" group-title=,ערוץ 9
-http://212.150.250.44/rkz79m/ngx/910/hrr_09v/index.m3u8
+#EXTINF:-1 tvg-ID= tvg-name="Yes_Sport_5plus" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0012_5plus.png" group-title=,Sport_5_plus
+http://212.150.250.44/rkz79m/ngx/78/hrr_5p/index.m3u8
+#EXTINF:-1 tvg-ID= tvg-name="YES_Sport_5_Plus_Live_HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0006_130x120_channels_livehd.png" group-title=,Sport_5_Live
+http://212.150.250.44/rkz79m/ngx/78/hrr_5l/index.m3u8
+#EXTINF:-1 tvg-ID= tvg-name="YES_Sport_5_Gold" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0007_130x120_channels_gold.png" group-title=,Sport_5_Gold
+http://212.150.250.44/rkz79m/ngx/78/hrr_5gv/index.m3u8
+
+
 #EXTINF:-1 tvg-id= tvg-name="ISRAEL_Channel_11_Kan" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/kan197.png" group-title=,ערוץ 11
 http://212.150.250.44/rkz79m/ngx/78/hrr_1hd/index.m3u8
 #EXTINF:-1 tvg-ID= tvg-name="ISRAEL_Channel_14_Eser" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0009_10-130x120.png" group-title=,ערוץ 10
@@ -15,7 +43,6 @@ http://212.150.250.44/rkz79m/ngx/910/hrr_10hdv/index.m3u8
 http://212.150.250.44/rkz79m/ngx/910/hrr_keshethd/index.m3u8
 #EXTINF:-1 tvg-ID= tvg-name="ISRAEL_Channel_13_Reshet" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_2_0000_logo-final-13-reshet-no-tag-red.png" group-title=,ערןץ 13
 http://212.150.250.44/rkz79m/ngx/78/hrr_reshethd/index.m3u8
-
 
 #EXTINF:-1 tvg-id= tvg-name="ISRAEL_23_HINOKHIT" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/hinuchit-logo_197x197.png" group-title=,ערוץ 23
 http://212.150.250.44/rkz79m/ngx/910/hrr_kan23/index.m3u8
@@ -39,44 +66,9 @@ http://212.150.250.44/rkz79m/ngx/78/hrr_fn/index.m3u8
 #EXTINF:-1 tvg-id= tvg-name="ISRAEL_Channel_fb" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0048_fox_business.png" group-title=,fox_business
 http://212.150.250.44/rkz79m/ngx/78/hrr_fb/index.m3u8
 
-
-
-
-
-
 #EXTINF:-1 tvg-id= tvg-name="HOT_GINX" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0011_ginx.png" group-title=,ginx
 http://212.150.250.44/rkz79m/ngx/910/hrr_ginx/index.m3u8
 
-#EXTINF:-1 tvg-ID= tvg-name="YES_ONE_HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0051_one-hd.png" group-title=,ONE1 ערוץ
-http://212.150.250.44/rkz79m/ngx_hls/out/u/elm_prod/one_4k/index_3.m3u8
-#EXTINF:-1 tvg-ID= tvg-name="YES_ONE_HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0051_one-hd.png" group-title=,ONE ערוץ
-http://212.150.250.44/rkz79m/ngx/78/hrr_one/index.m3u8
-#EXTINF:-1 tvg-ID= tvg-name="ONE_II" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197one2-logo.png" group-title=,ערוץ ONE 2
-http://212.150.250.44/rkz79m/ngx/910/hrr_one2/index.m3u8
-#EXTINF:-1 tvg-ID= tvg-name="Yes_Sport_1_hd" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0001_130x120_charlton1234_new.png" group-title=,SPORT 1
-http://212.150.250.44/rkz79m/ngx/910/hrr_s1/index.m3u8
-#EXTINF:-1 tvg-ID= tvg-name="Yes_Sport_2_hd" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0004_130x120_charlton2.png" group-title=,SPORT 2
-http://212.150.250.44/rkz79m/ngx/910/hrr_s2/index.m3u8
-#EXTINF:-1 tvg-ID= tvg-name="Yes_Sport_3_hd" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0003_130x120_charlton3.png" group-title=,SPORT 3
-http://212.150.250.44/rkz79m/ngx/910/hrr_s3/index.m3u8
-#EXTINF:-1 tvg-ID= tvg-name="yes_sport_4_hd" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0002_130x120_charlton4.png" group-title=,SPORT 4
-http://212.150.250.44/rkz79m/ngx/910/hrr_s4/index.m3u8
-#EXTINF:-1 tvg-ID= tvg-name="YES_5sport_4k" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0005_130x120_channels_sporthd.png" group-title=,Sport 5 4K
-http://212.150.250.44/rkz79m/ngx_hls/out/u/elm_prod/5sport_4k/index_3.m3u8
-#EXTINF:-1 tvg-ID= tvg-name="YES_SPORT5_1080" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0005_130x120_channels_sporthd.png" group-title=,Sport 5 1080
-http://212.150.250.44/rkz79m/ngx_hls/out/u/elm_prod/5sport_4k/index_2.m3u8
-
-
-#EXTINF:-1 tvg-ID= tvg-name="YES_SPORT5_1080" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0005_130x120_channels_sporthd.png" group-title=,Sport 5 HD
-http://212.150.250.44/rkz79m/ngx/78/hrr_5hd/index.m3u8
-#EXTINF:-1 tvg-ID= tvg-name="YES_Sport_5_HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0013_sport-5.png" group-title=,sport_5 SD
-http://212.150.250.44/rkz79m/ngx/78/hrr_5s/index.m3u8
-#EXTINF:-1 tvg-ID= tvg-name="Yes_Sport_5plus" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0012_5plus.png" group-title=,Sport_5_plus
-http://212.150.250.44/rkz79m/ngx/78/hrr_5p/index.m3u8
-#EXTINF:-1 tvg-ID= tvg-name="YES_Sport_5_Plus_Live_HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0006_130x120_channels_livehd.png" group-title=,Sport_5_Live
-http://212.150.250.44/rkz79m/ngx/78/hrr_5l/index.m3u8
-#EXTINF:-1 tvg-ID= tvg-name="YES_Sport_5_Gold" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0007_130x120_channels_gold.png" group-title=,Sport_5_Gold
-http://212.150.250.44/rkz79m/ngx/78/hrr_5gv/index.m3u8
 #EXTINF:-1 tvg-ID= tvg-name="YES_National_Geographic_HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0047_ng.png" group-title=,NATIONAL GEOGRAPHIC
 http://212.150.250.44/rkz79m/ngx/78/hrr_ng/index.m3u8
 #EXTINF:-1 tvg-ID= tvg-name="YES_National_Geographic_HD" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/natgeowild_hd_rev_197x197.png" group-title=,NAT GEO WILD
@@ -111,3 +103,8 @@ http://212.150.250.44/rkz79m/ngx/56/hrr_junior/index.m3u8
 http://212.150.250.44/rkz79m/ngx/56/hrr_jimjam/index.m3u8
 #EXTINF:-1 tvg-ID= tvg-name="HOT_JIMJAM" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/hero-197x197.png" group-title=,הירו
 http://212.150.250.44/rkz79m/ngx/56/hrr_hero/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-name="_YES_Plus9" tvg-logo="https://cellcomtv.cellcom.co.il/globalassets/cellcomtv/channels/channels_with_color/web-new/197x197_0010_9-130x120.png" group-title=,ערוץ 9
+http://212.150.250.44/rkz79m/ngx/910/hrr_09v/index.m3u8
+#EXTINF:-1 tvg-id= tvg-name="hrr_bigbro" tvg-logo="https://media.reshet.tv/image/upload/t_main_image_article,f_auto,q_auto/v1503386577/HaachHagadol_r4i6cz.png" group-title=,האח הגדול
+http://212.150.250.44/rkz79m/ngx/56/hrr_bigbro/index.m3u8
